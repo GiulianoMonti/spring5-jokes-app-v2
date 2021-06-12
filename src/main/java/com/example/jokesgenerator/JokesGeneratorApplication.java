@@ -9,7 +9,6 @@ public class JokesGeneratorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JokesGeneratorApplication.class, args);
-		ApplicationContext ctx = SpringApplication.run(JokesGeneratorApplication.class, args);
 
 
 	}
